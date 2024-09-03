@@ -20,3 +20,9 @@ Lista de tipuri de pizze este gestionată dinamic prin JavaScript.
 
 -**Afișarea Înregistrărilor din Baza de Date**:
 Toate înregistrările adăugate în baza de date sunt afișate într-o listă completă, permițând utilizatorilor să vadă toate pizzele disponibile cu detalii complete.
+
+## Tehnologii Utilizate
+-**PHP**: Pentru logica backend și procesarea pe partea de server.
+-**HTML/CSS**: Pentru structurarea și stilizarea paginilor web.
+-**JavaScript**: Pentru gestionarea dinamică a interfeței utilizatorului, inclusiv meniurile drop-down.
+-**MySQL**: Utilizat pentru stocarea detaliilor despre pizze în mod persistent.
