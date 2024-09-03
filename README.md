@@ -23,6 +23,9 @@ Toate înregistrările adăugate în baza de date sunt afișate într-o listă c
 
 ## Tehnologii Utilizate
 -**PHP**: Pentru logica backend și procesarea pe partea de server.
+
 -**HTML/CSS**: Pentru structurarea și stilizarea paginilor web.
+
 -**JavaScript**: Pentru gestionarea dinamică a interfeței utilizatorului, inclusiv meniurile drop-down.
+
 -**MySQL**: Utilizat pentru stocarea detaliilor despre pizze în mod persistent.
